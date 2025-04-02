@@ -1,24 +1,22 @@
 <span id="ru"><a href='#ru'>🇷🇺</a> &nbsp;&nbsp;&nbsp;<a href='#en'>🇺🇸</a> &nbsp;&nbsp;&nbsp;</span><br><br>
 
-![3](https://github.com/user-attachments/assets/2575c149-c389-47b8-bd5e-37fae50a5251)
+![5](https://github.com/user-attachments/assets/5fc42cac-dc82-4eff-bfbb-a8d8478c2cd6)
 
 <iframe width="315" height="560" src="https://www.youtube.com/embed/C6wALC0gAh8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"allowfullscreen></iframe>
 
-До чего же мы несчастливы, царевны,
-Нам законом запрещается любить,
-В царских семьях уж таков порядок древний —
-По расчёту надо замуж выходить.<br><br>
+Нам царевнам жить приходится в неволе,
+Пропадают молодые годы зря.
+Нам всё время надо думать о престоле,
+Исполняя волю батюшки-царя.<br><br>
 
 <span id="en"><a href='#ru'>🇷🇺</a> &nbsp;&nbsp;&nbsp;<a href='#en'>🇺🇸</a> &nbsp;&nbsp;&nbsp;</span><br><br>
 
-![3](https://github.com/user-attachments/assets/32340491-8a75-47f4-a7db-43b21929dc01)
+![5](https://github.com/user-attachments/assets/5fc42cac-dc82-4eff-bfbb-a8d8478c2cd6)
 
 <iframe width="315" height="560" src="https://www.youtube.com/embed/zOOtxO9uVfY" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"allowfullscreen></iframe>
 
-Do chego zhe my neschastlivy, carevny,
-Nam zakonom zapreshchaetsya lyubit',
-V carskih sem'yah uzh takov poryadok drevnij —
-Po raschyotu nado zamuzh vyhodit'.<br><br>
+Nam carevnam zhit' prihoditsya v nevole,
+Propadayut molodye gody zrya.
+Nam vsyo vremya nado dumat' o prestole,
+Ispolnyaya volyu batyushki-carya.<br><br>
 
-![6](https://github.com/user-attachments/assets/21e1016f-2b55-4163-8600-3865fd038ab9)
-![5](https://github.com/user-attachments/assets/5fc42cac-dc82-4eff-bfbb-a8d8478c2cd6)
