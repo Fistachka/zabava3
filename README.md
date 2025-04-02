@@ -20,3 +20,5 @@ Nam zakonom zapreshchaetsya lyubit',
 V carskih sem'yah uzh takov poryadok drevnij —
 Po raschyotu nado zamuzh vyhodit'.<br><br>
 
+![6](https://github.com/user-attachments/assets/21e1016f-2b55-4163-8600-3865fd038ab9)
+![5](https://github.com/user-attachments/assets/5fc42cac-dc82-4eff-bfbb-a8d8478c2cd6)
