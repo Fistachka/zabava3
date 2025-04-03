@@ -2,7 +2,7 @@
 <level>
   <owner>Fistachka</owner>
   <repo>zabava3</repo>
-  <version>v1.0.4</version>
+  <version>v1.0.5</version>
   <next number="1" owner="Fistachka" repo="zabava2"/>
   <readme>
     <ru>cc1fbed7cf713d7500aa4580ec916e896021889138aca837b701d12a8d36dafd</ru>
@@ -16,10 +16,10 @@
     <tonalities>1</tonalities>
     <video name="16t.mp4" size="800454" type="video/mp4" volume="0.5">8d9a3388f229708dc8e57e2a8d342cdeb8e1159c57d9aefd4aa862cbda9337dd</video>
     <notes>
-      <note number="1" values="18" ticks="68" durationTicks="61" ppq="96" velocity="0.843"/>
-      <note number="2" values="48" ticks="133" durationTicks="65" ppq="96" velocity="0.906"/>
-      <note number="3" values="78" ticks="207" durationTicks="63" ppq="96" velocity="0.858"/>
-      <note number="4" values="68" ticks="296" durationTicks="86" ppq="96" velocity="0.906"/>
+      <note number="1" values="18" ticks="58" durationTicks="61" ppq="96" velocity="0.843"/>
+      <note number="2" values="48" ticks="123" durationTicks="65" ppq="96" velocity="0.906"/>
+      <note number="3" values="78" ticks="197" durationTicks="63" ppq="96" velocity="0.858"/>
+      <note number="4" values="68" ticks="286" durationTicks="86" ppq="96" velocity="0.906"/>
     </notes>
   </exercise>
   <exercise number="2">
@@ -29,14 +29,14 @@
     <tonalities>1</tonalities>
     <video name="18t.mp4" size="1024988" type="video/mp4" volume="0.5">3c2982a9e43ca549eecdea3edc4e7b0ac32c0bcab4374bca925535b0983b11f7</video>
     <notes>
-      <note number="1" values="58" ticks="37" durationTicks="37" ppq="96" velocity="0.843"/>
-      <note number="2" values="68" ticks="91" durationTicks="45" ppq="96" velocity="0.906"/>
-      <note number="3" values="78" ticks="146" durationTicks="35" ppq="96" velocity="0.858"/>
-      <note number="4" values="68" ticks="192" durationTicks="55" ppq="96" velocity="0.906"/>
-      <note number="5" values="58" ticks="241" durationTicks="37" ppq="96" velocity="0.906"/>
-      <note number="6" values="68" ticks="286" durationTicks="39" ppq="96" velocity="0.906"/>
-      <note number="7" values="48" ticks="338" durationTicks="39" ppq="96" velocity="0.906"/>
-      <note number="8" values="48" ticks="386" durationTicks="54" ppq="96" velocity="0.906"/>
+      <note number="1" values="58" ticks="96" durationTicks="37" ppq="96" velocity="0.843"/>
+      <note number="2" values="68" ticks="144" durationTicks="45" ppq="96" velocity="0.906"/>
+      <note number="3" values="78" ticks="194" durationTicks="35" ppq="96" velocity="0.85"/>
+      <note number="4" values="68" ticks="240" durationTicks="55" ppq="96" velocity="0.906"/>
+      <note number="5" values="58" ticks="289" durationTicks="37" ppq="96" velocity="0.906"/>
+      <note number="6" values="68" ticks="337" durationTicks="36" ppq="96" velocity="0.906"/>
+      <note number="7" values="48" ticks="386" durationTicks="39" ppq="96" velocity="0.906"/>
+      <note number="8" values="48" ticks="434" durationTicks="54" ppq="96" velocity="0.906"/>
     </notes>
   </exercise>
   <exercise number="3">
@@ -46,10 +46,10 @@
     <tonalities>1</tonalities>
     <video name="19t.mp4" size="564007" type="video/mp4" volume="0.5">cdd1be0bf8d6cae0154f96ec1b04ea0b3dac0cbc21686ce8e9c68344b03a26fc</video>
     <notes>
-      <note number="1" values="6" ticks="10" durationTicks="40" ppq="96" velocity="0.843"/>
-      <note number="2" values="18" ticks="62" durationTicks="38" ppq="96" velocity="0.906"/>
-      <note number="3" values="48" ticks="106" durationTicks="45" ppq="96" velocity="0.866"/>
-      <note number="4" values="38" ticks="166" durationTicks="49" ppq="96" velocity="0.913"/>
+      <note number="1" values="6" ticks="42" durationTicks="40" ppq="96" velocity="0.843"/>
+      <note number="2" values="18" ticks="94" durationTicks="38" ppq="96" velocity="0.906"/>
+      <note number="3" values="48" ticks="138" durationTicks="45" ppq="96" velocity="0.858"/>
+      <note number="4" values="38" ticks="194" durationTicks="49" ppq="96" velocity="0.906"/>
     </notes>
   </exercise>
   <exercise number="4">
