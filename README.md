@@ -7,7 +7,9 @@
 Нам царевнам жить приходится в неволе,
 Пропадают молодые годы зря.
 Нам всё время надо думать о престоле,
-Исполняя волю батюшки-царя.<br><br>
+Исполняя волю батюшки-царя.
+
+Предыдущий урок: stolbitsa.com/fistachka/zabava2<br><br>
 
 <span id="en"><a href='#ru'>🇷🇺</a> &nbsp;&nbsp;&nbsp;<a href='#en'>🇺🇸</a> &nbsp;&nbsp;&nbsp;</span><br><br>
 
@@ -18,5 +20,7 @@
 Nam carevnam zhit' prihoditsya v nevole,
 Propadayut molodye gody zrya.
 Nam vsyo vremya nado dumat' o prestole,
-Ispolnyaya volyu batyushki-carya.<br><br>
+Ispolnyaya volyu batyushki-carya.
+
+Previous lesson: stolbitsa.com/fistachka/zabava2<br><br>
 
